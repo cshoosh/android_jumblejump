@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/menu_gradient_bg"
+    android:orientation="vertical" >
+   
+   <ImageView android:id="@+id/button_close_howto"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:background="@drawable/close_state"
+       android:layout_gravity="right"/>
+   <TextView 
+            android:id="@+id/text_howto_title"
+            android:background="@drawable/platform_without_glow"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:textSize="24sp"
+            android:textColor="#3f1600"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="How To Play?"/>
+   <TextView 
+       		android:layout_marginTop="20dp"
+            android:id="@+id/text_howto_01"
+            android:background="@drawable/platform_without_glow"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:textSize="24sp"
+            android:textColor="#3f1600"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="Tilt to move,"/>
+   <TextView 
+            android:id="@+id/text_howto_02"
+            android:background="@drawable/platform_without_glow"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:textSize="24sp"
+            android:textColor="#3f1600"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="Tap to shoot.."/>
+   
+    <Button 
+        android:layout_marginTop="20dp"
+        android:id="@+id/button_howto_gotit"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:textColor="#3f1600"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="Got It.."
+        android:background="@drawable/text_selector"
+        android:textSize="24sp"/>
+     <ImageView android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/menu_grass"/>
+</LinearLayout>

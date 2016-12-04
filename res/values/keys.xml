@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <string name="key_sound">soundOnOff</string>
+    <string name="key_music">musicOnOff</string>
+    <string name="key_first_play">firstplay</string>
+</resources>

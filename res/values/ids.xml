@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">342273811295</string>
+  <string name="achievement_saver">CgkI38bviPsJEAIQAQ</string>
+  <string name="achievement_scorer">CgkI38bviPsJEAIQBQ</string>
+  <string name="achievement_investor">CgkI38bviPsJEAIQAg</string>
+  <string name="achievement_player">CgkI38bviPsJEAIQBg</string>
+  <string name="achievement_gatherer">CgkI38bviPsJEAIQAw</string>
+  <string name="achievement_victor">CgkI38bviPsJEAIQBw</string>
+  <string name="achievement_collector">CgkI38bviPsJEAIQBA</string>
+  <string name="achievement_champion">CgkI38bviPsJEAIQCA</string>
+  <string name="achievement_rammer">CgkI38bviPsJEAIQCw</string>
+  <string name="achievement_creepy_spiders">CgkI38bviPsJEAIQDA</string>
+  <string name="achievement_snakes_in_the_jungle">CgkI38bviPsJEAIQDQ</string>
+  <string name="achievement_cliffhanger">CgkI38bviPsJEAIQDg</string>
+  <string name="achievement_toasted">CgkI38bviPsJEAIQDw</string>
+  <string name="achievement_spider_hunter">CgkI38bviPsJEAIQEQ</string>
+  <string name="achievement_snake_hunter">CgkI38bviPsJEAIQEg</string>
+  <string name="achievement_big_boss">CgkI38bviPsJEAIQCQ</string>
+  <string name="achievement_saver__hard">CgkI38bviPsJEAIQFQ</string>
+  <string name="achievement_scorer__hard">CgkI38bviPsJEAIQFg</string>
+  <string name="achievement_investor__hard">CgkI38bviPsJEAIQFw</string>
+  <string name="achievement_player__hard">CgkI38bviPsJEAIQGA</string>
+  <string name="achievement_gatherer__hard">CgkI38bviPsJEAIQGQ</string>
+  <string name="achievement_victor__hard">CgkI38bviPsJEAIQGg</string>
+  <string name="achievement_collector__hard">CgkI38bviPsJEAIQGw</string>
+  <string name="achievement_champion__hard">CgkI38bviPsJEAIQHA</string>
+  <string name="achievement_rammer__hard">CgkI38bviPsJEAIQHQ</string>
+  <string name="achievement_creepy_spiders__hard">CgkI38bviPsJEAIQHg</string>
+  <string name="achievement_snakes_in_the_jungle__hard">CgkI38bviPsJEAIQHw</string>
+  <string name="achievement_cliffhanger__hard">CgkI38bviPsJEAIQIA</string>
+  <string name="achievement_toasted__hard">CgkI38bviPsJEAIQIQ</string>
+  <string name="achievement_spider_hunter__hard">CgkI38bviPsJEAIQIg</string>
+  <string name="achievement_snake_hunter__hard">CgkI38bviPsJEAIQIw</string>
+  <string name="achievement_saver__easy">CgkI38bviPsJEAIQJA</string>
+  <string name="achievement_scorer__easy">CgkI38bviPsJEAIQJQ</string>
+  <string name="achievement_investor__easy">CgkI38bviPsJEAIQJg</string>
+  <string name="achievement_player__easy">CgkI38bviPsJEAIQJw</string>
+  <string name="achievement_gatherer__easy">CgkI38bviPsJEAIQKA</string>
+  <string name="achievement_victor__easy">CgkI38bviPsJEAIQKQ</string>
+  <string name="achievement_collector__easy">CgkI38bviPsJEAIQKg</string>
+  <string name="achievement_champion__easy">CgkI38bviPsJEAIQKw</string>
+  <string name="achievement_rammer__easy">CgkI38bviPsJEAIQLA</string>
+  <string name="achievement_creepy_spiders__easy">CgkI38bviPsJEAIQLQ</string>
+  <string name="achievement_snakes_in_the_jungle__easy">CgkI38bviPsJEAIQLg</string>
+  <string name="achievement_cliffhanger__easy">CgkI38bviPsJEAIQLw</string>
+  <string name="achievement_toasted__easy">CgkI38bviPsJEAIQMA</string>
+  <string name="achievement_spider_hunter__easy">CgkI38bviPsJEAIQMQ</string>
+  <string name="achievement_snake_hunter__easy">CgkI38bviPsJEAIQMg</string>
+  <string name="leaderboard_high_score__easy">CgkI38bviPsJEAIQEw</string>
+  <string name="leaderboard_high_score__medium">CgkI38bviPsJEAIQEA</string>
+  <string name="leaderboard_high_score__hard">CgkI38bviPsJEAIQFA</string>
+</resources>

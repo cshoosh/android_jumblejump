@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE LEVEL SYSTEM "level.dtd">
+<ROOT>
+	<LEVEL lno="1" repeat="1">
+	 <DESIGN no="1">
+	    <ENTITIES>
+  <ENTITY>
+    <X>5</X>
+    <Y>393</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>393</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>18</X>
+    <Y>381</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>370</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>67</X>
+    <Y>355</Y>
+    <TYPE type="Platform" sub="NML" item="BALLOON" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>350</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>54</X>
+    <Y>335</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>320</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>310</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>308</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="RIGHT" />
+  </ENTITY>
+  <ENTITY>
+    <X>25</X>
+    <Y>300</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>285</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>35</X>
+    <Y>283</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>275</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>273</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>31</X>
+    <Y>260</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>240</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>233</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>41</X>
+    <Y>222</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>212</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>198</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>192</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>180</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>178</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>175</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>163</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>22</X>
+    <Y>155</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>61</X>
+    <Y>148</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>138</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>130</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>110</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>56</X>
+    <Y>118</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>100</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>37</X>
+    <Y>85</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>83</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>78</X>
+    <Y>78</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>70</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>55</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>50</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>40</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>36</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>20</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>5</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+</ENTITIES>
+	 </DESIGN>
+	 <DESIGN no="2">
+	     <ENTITIES>
+  <ENTITY>
+    <X>5</X>
+    <Y>393</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>35</X>
+    <Y>393</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>393</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>370</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>379</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>78</X>
+    <Y>355</Y>
+    <TYPE type="Platform" sub="NML" item="BALLOON" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>35</X>
+    <Y>358</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>27</X>
+    <Y>345</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>54</X>
+    <Y>335</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>330</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>320</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>310</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>315</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="RIGHT" />
+  </ENTITY>
+  <ENTITY>
+    <X>34</X>
+    <Y>300</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>285</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>35</X>
+    <Y>283</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>275</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>273</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>31</X>
+    <Y>260</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>240</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>235</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>41</X>
+    <Y>222</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>212</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>198</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>180</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>178</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>165</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>163</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>22</X>
+    <Y>155</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>78</X>
+    <Y>148</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>135</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>130</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>110</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>56</X>
+    <Y>112</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>100</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>94</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>83</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>78</X>
+    <Y>78</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>70</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>60</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>50</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>40</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>36</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>20</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>5</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+</ENTITIES>
+	 </DESIGN>
+	 <DESIGN no="3">
+	     <ENTITIES>
+  <ENTITY>
+    <X>12</X>
+    <Y>397</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>83</X>
+    <Y>397</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>385</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>375</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>365</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>360</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>355</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>78</X>
+    <Y>345</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>340</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>35</X>
+    <Y>330</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>320</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>13</X>
+    <Y>305</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>290</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>290</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>78</X>
+    <Y>280</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>270</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>260</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>250</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>240</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>64</X>
+    <Y>220</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>210</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>32</X>
+    <Y>200</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>190</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>55</X>
+    <Y>180</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>170</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="RIGHT" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>155</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>140</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>32</X>
+    <Y>120</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>56</X>
+    <Y>115</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>105</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>95</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>80</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>70</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>58</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>55</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>40</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="RIGHT" />
+  </ENTITY>
+  <ENTITY>
+    <X>55</X>
+    <Y>20</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>5</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+</ENTITIES>
+	 </DESIGN>
+	 <DESIGN no="4">
+	     <ENTITIES>
+  <ENTITY>
+    <X>10</X>
+    <Y>396</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>396</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>396</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>385</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>375</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>370</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>360</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>68</X>
+    <Y>345</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>340</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>330</Y>
+    <TYPE type="Platform" sub="NML" item="BALLOON" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>320</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>310</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>300</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>290</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>280</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>270</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>75</X>
+    <Y>260</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>250</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>240</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>235</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>230</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>55</X>
+    <Y>222</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>215</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>205</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>195</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>180</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>175</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>170</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>160</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>140</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>130</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>120</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>115</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>105</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>94</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>83</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>70</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>60</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>45</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>30</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>10</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>05</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+</ENTITIES>
+	 </DESIGN>
+	 <DESIGN no="5">
+	     <ENTITIES>
+  <ENTITY>
+    <X>10</X>
+    <Y>395</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>395</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>395</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>380</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>370</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>365</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>350</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>345</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>340</Y>
+    <TYPE type="Platform" sub="NML" item="BALLOON" align="RIGHT" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>330</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>320</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>310</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>32</X>
+    <Y>300</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>290</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>270</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>80</X>
+    <Y>265</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>255</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>55</X>
+    <Y>240</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>220</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>210</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>200</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>64</X>
+    <Y>190</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>180</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>48</X>
+    <Y>165</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>155</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>140</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>130</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>120</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>32</X>
+    <Y>110</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>75</X>
+    <Y>100</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>90</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>80</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>65</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>43</X>
+    <Y>55</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>50</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>40</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>25</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>15</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>10</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>05</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>225</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+</ENTITIES>
+	 </DESIGN>
+	</LEVEL>
+</ROOT>

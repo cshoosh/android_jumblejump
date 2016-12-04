@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="platformWidth">80dp</dimen>
+	<dimen name="platformHeight">15dp</dimen>
+	
+	<dimen name="playerWidth">50dp</dimen>
+	<dimen name="playerHeight">50dp</dimen>
+	
+	<dimen name="fireWidth">20dp</dimen>
+	<dimen name="fireHeight">20dp</dimen>
+	
+	<dimen name="fontsize">24dp</dimen>
+</resources>

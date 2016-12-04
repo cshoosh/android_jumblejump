@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jumble Jump</string>
+    <string name="label_music">Music</string>
+    <string name="label_sound">Sound</string>
+    <string name="label_signout">Sign Out!!</string>
+    <string name="label_rateus">Rate Us</string>
+    
+  
+    <string-array name="doubleJumpAnim">
+        <item >@drawable/jump_platform_01</item>
+        <item >@drawable/jump_platform_02</item>
+        <item >@drawable/jump_platform_01</item>
+        <item >@drawable/jump_platform_04</item>
+        <item >@drawable/jump_platform_00</item>
+        <item >1</item>
+    </string-array>
+    
+    <string-array name="coinAnim">
+        <item >@drawable/coin01</item>
+        <item >@drawable/coin02</item>
+        <item >@drawable/coin03</item>
+        <item >@drawable/coin04</item>
+        <item >@drawable/coin01</item>
+        <item >5</item>        
+    </string-array>
+    
+    <string-array name="crocAnim">
+        <item >@drawable/crocodile</item>
+        <item >@drawable/crocodile01</item>
+        <item >@drawable/crocodile</item>
+        <item >20</item>
+    </string-array>
+    
+    <string-array name="spiderAnim">
+        <item >@drawable/spider_01</item>
+        <item >@drawable/spider_02</item>
+        <item >@drawable/spider_03</item>
+        <item >@drawable/spider_01</item>
+        <item >5</item>
+    </string-array>
+    
+    <string-array name="snakeAnim">
+        <item >@drawable/snake_01</item>
+        <item >@drawable/snake_02</item>
+        <item >@drawable/snake_01</item>
+        <item >20</item>
+    </string-array>
+    
+    <string-array name="teslaAnim">
+        <item >@drawable/tesla01</item>
+        <item >@drawable/tesla02</item>
+        <item >@drawable/tesla03</item>
+        <item >@drawable/tesla04</item>
+        <item >@drawable/tesla01</item>
+        <item >5</item>
+    </string-array>
+    
+    
+</resources>

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE LEVEL SYSTEM "level.dtd">
+<ROOT>
+    <LEVEL lno="5" repeat="1">
+    <DESIGN no="1">
+        <ENTITIES>
+  <ENTITY>
+    <X>10</X>
+    <Y>395</Y>
+    <TYPE type="Platform" sub="NML" item="BALLOON" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>390</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>375</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>355</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="50" movableInt="50" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>345</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>335</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>330</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>310</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>300</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>287</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="40" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>270</Y>
+    <TYPE type="Platform" sub="DBL" doubleInt="2" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>260</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>250</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>240</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>220</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>200</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>190</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>180</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="2" movableDis="40" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>160</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>42</X>
+    <Y>150</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>140</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>127</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>110</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>90</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3.5" movableDis="60" movableInt="10" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>70</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>40</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>32</X>
+    <Y>30</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>25</Y>
+    <TYPE type="Platform" sub="DBL" doubleInt="1.8" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>55</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>10</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+</ENTITIES>
+    </DESIGN>
+    <DESIGN no="2">
+        <ENTITIES>
+  <ENTITY>
+    <X>10</X>
+    <Y>395</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>385</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>375</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>355</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="50" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>345</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>335</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>325</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>305</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="2" movableDis="40" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>295</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>285</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>275</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>265</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>255</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>245</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="2" movableDis="40" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>225</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>205</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>195</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>185</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>175</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>158</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="60" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>135</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>115</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>95</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>75</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>65</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>55</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>32</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="50" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>12</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="5" movableDis="70" movableInt="0" />
+  </ENTITY>
+</ENTITIES>
+    </DESIGN>
+    <DESIGN no="3">
+        <ENTITIES>
+  <ENTITY>
+    <X>5</X>
+    <Y>395</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>378</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="40" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>355</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>335</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="60" movableInt="30" />
+  </ENTITY>
+  <ENTITY>
+    <X>14</X>
+    <Y>320</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>305</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>285</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>275</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>265</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>245</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>235</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>225</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>205</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="50" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>185</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>165</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="RIGHT" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>155</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>60</X>
+    <Y>145</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>125</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="5" movableDis="40" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>105</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>95</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>85</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>65</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>45</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>25</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>5</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="40" movableInt="0" />
+  </ENTITY>
+</ENTITIES>
+    </DESIGN>
+    <DESIGN no="4">
+        <ENTITIES>
+  <ENTITY>
+    <X>75</X>
+    <Y>90</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>25</X>
+    <Y>70</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="50" movableInt="20" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>60</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>48</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>30</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>10</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="50" movableInt="20" />
+  </ENTITY>
+  <ENTITY>
+    <X>15</X>
+    <Y>110</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="60" movableInt="40" />
+  </ENTITY>
+  <ENTITY>
+    <X>12</X>
+    <Y>130</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>5</X>
+    <Y>140</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>150</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="40" movableInt="20" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>165</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>180</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>200</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>215</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>38</X>
+    <Y>220</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>240</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="60" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>4</X>
+    <Y>260</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="RIGHT" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>280</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>295</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>42</X>
+    <Y>305</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>76</X>
+    <Y>310</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>315</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>330</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="LEFT" />
+  </ENTITY>
+  <ENTITY>
+    <X>20</X>
+    <Y>345</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>5</X>
+    <Y>360</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="50" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>380</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>395</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+</ENTITIES>
+    </DESIGN>
+    <DESIGN no="5">
+        <ENTITIES>
+  <ENTITY>
+    <X>65</X>
+    <Y>23</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>10</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="40" movableInt="20" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>40</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>5</X>
+    <Y>35</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>65</X>
+    <Y>55</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>30</X>
+    <Y>70</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="5" movableDis="45" movableInt="20" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>90</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>50</X>
+    <Y>110</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>75</X>
+    <Y>120</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>120</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>135</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>145</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>40</X>
+    <Y>160</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="45" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>5</X>
+    <Y>180</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>56</X>
+    <Y>200</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>220</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="50" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>240</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="50" movableInt="30" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>218</Y>
+    <TYPE type="Platform" sub="DBL" doubleInt="1.8" />
+  </ENTITY>
+  <ENTITY>
+    <X>35</X>
+    <Y>238</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>260</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>280</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="4" movableDis="50" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>56</X>
+    <Y>280</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+  <ENTITY>
+    <X>34</X>
+    <Y>300</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>15</X>
+    <Y>320</Y>
+    <TYPE type="Platform" sub="MOV" movableVer="False" movableVel="3" movableDis="45" movableInt="0" />
+  </ENTITY>
+  <ENTITY>
+    <X>45</X>
+    <Y>330</Y>
+    <TYPE type="Enemy" sub="PWN" hp="1" />
+  </ENTITY>
+  <ENTITY>
+    <X>70</X>
+    <Y>340</Y>
+    <TYPE type="Platform" sub="NML" item="COIN" align="CENTER" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>360</Y>
+    <TYPE type="Platform" sub="DCY" />
+  </ENTITY>
+  <ENTITY>
+    <X>55</X>
+    <Y>370</Y>
+    <TYPE type="Platform" sub="DBL" doubleInt="1.65" />
+  </ENTITY>
+  <ENTITY>
+    <X>55</X>
+    <Y>395</Y>
+    <TYPE type="Platform" sub="NML" />
+  </ENTITY>
+  <ENTITY>
+    <X>10</X>
+    <Y>385</Y>
+    <TYPE type="Platform" sub="BRK" />
+  </ENTITY>
+</ENTITIES>
+    </DESIGN>
+    </LEVEL>
+</ROOT>

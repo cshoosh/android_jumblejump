@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+   <string name="BalloonInt">1500</string>
+   <string name="ShieldInt">8000</string>
+   
+</resources>
